@@ -29,7 +29,7 @@ Package.on_use(function (api) {
     'lib/jsqrcode/databr.js',
     'qr-scanner.css',
     'qr-scanner.html',
-    'qr-scanner.coffee'
+    'qr-scanner.js'
   ], 'client')
 
 })
